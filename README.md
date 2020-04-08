@@ -1,2 +1,2 @@
 # Simulador de Provas
- Repositório de desenvolvimento para criação de simulados ou provas
+ Repositório de desenvolvimento de um Website para a criação de simulados ou provas
