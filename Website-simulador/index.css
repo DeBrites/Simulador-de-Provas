@@ -1,0 +1,25 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #F3FAFF;
+    box-sizing: border-box;
+    font: normal 14pt 'Poppins', sans-serif;
+}
+header, footer {
+    text-align: center;
+    font: normal 16pt 'Baloo Thambi 2', cursive;
+}
+.sect1 {
+    width: 90%;
+    padding: 2%;
+    margin: 3%; /*Porcentagens nesse modelo deixa o site responsivo!*/
+    border-radius: 12px;
+    background: #1687ED;
+}
+.art1, .art2 {
+    background: rgb(255, 254, 254);
+    width: 90%;
+    margin: 2%;
+    padding: 3%;
+    border-radius: 20px;
+}
